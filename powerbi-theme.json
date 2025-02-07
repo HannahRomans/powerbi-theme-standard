@@ -236,6 +236,12 @@
 					"color": { "solid": { "color": "#062240"}},
 					"transparency": 0
 				}],
+				"title": [{
+					"show": true,
+					"fontColor": { "solid": { "color": "#FFFFFF" } },
+					"background": { "solid": { "color": "#062240" } },
+					"alignment": "center"
+				}],
 				"border": [{
 					"color": { "solid": { "color": "#000000"}},
 					"show": true,
@@ -311,6 +317,12 @@
 					"show": true,
 					"color": { "solid": { "color": "#062240"}},
 					"transparency": 0
+				}],
+				"title": [{
+					"show": true,
+					"fontColor": { "solid": { "color": "#FFFFFF" } },
+					"background": { "solid": { "color": "#062240" } },
+					"alignment": "center"
 				}],
 				"border": [{
 					"color": { "solid": { "color": "#000000"}},
