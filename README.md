@@ -8,6 +8,7 @@ Easy Implementation: Apply the theme with a single upload to Power BI.
 
 Installation:
 Download the powerbi-theme.json file from this repository.
+Ensure you save the file with .json at the end.
 Open Power BI Desktop.
 Navigate to View > Themes > Browse for Themes.
 Select the downloaded JSON file and apply the theme.
