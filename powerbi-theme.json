@@ -241,6 +241,26 @@
 				  }]
 			}
 		},
+		"actionButton": {
+			"*": {
+				"background": [{
+					"show": false
+				}],
+				"border": [{
+					"show": false
+				}]
+			}
+		},
+		"image": {
+			"*": {
+				"background": [{
+					"show": false
+				}],
+				"border": [{
+					"show": false
+				}]
+			}
+		},
 		"*": {
 			"*": {
 				"values": [{
