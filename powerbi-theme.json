@@ -166,7 +166,8 @@
 					"fontFamily": "Segoe UI"
 				}],
 				"items": [{
-					"fontColor": { "solid": { "color": "#FFFFFF"}},
+					"fontColor": { "solid": { "color": "#000000"}},
+					"background": { "solid": { "color": "#FFFFFF"}},
 					"textSize": 12,
 					"fontFamily": "Segoe UI"
 				}],
@@ -315,6 +316,13 @@
 					"show": true,
 					"color": { "solid": { "color": "#000000" }},
 					"radius": 10
+				}],
+				"labels": [{
+					"show": true,
+					"color": { "solid": { "color": "#FFFFFF"}},
+					"fontSize": 10,
+					"fontFamily": "Segoe UI",
+					"position": "outside"
 				}]
 			}
 		},
