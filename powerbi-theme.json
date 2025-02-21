@@ -1,6 +1,6 @@
 {
 	"name": "Roman's Pizza Theme",
-	"dataColors": ["#027DC8", "#E5171F", "#1FD5F1", "#FCFCFC", "#0C4480", "#66C266", "#F28C28", "#FFD700", "#7D3CCF"],
+	"dataColors": ["#027DC8", "#E5171F", "#1FD5F1", "#0C4480", "#66C266", "#F28C28", "#FFD700", "#7D3CCF"],
 	"visualStyles": {
 		"tableEx": {
 			"*": {
